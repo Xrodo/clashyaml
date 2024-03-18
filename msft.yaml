@@ -1,6 +1,7 @@
 payload:
 - 'DOMAIN-KEYWORD,mypikpak'
 - 'DOMAIN-SUFFIX,office.com'
+- 'DOMAIN-SUFFIX,office.net'
 - 'DOMAIN-SUFFIX,live.net'
 - 'DOMAIN-SUFFIX,live.com'
 - 'DOMAIN-KEYWORD,microsoft'
