@@ -1909,6 +1909,7 @@ payload:
   - '+.azuresmartspaces.net'
   - '+.azurestackvalidation.com'
   - '+.azurewebsites.net'
+  - '+.b-cdn.net'
   - '+.b-eroland.net'
   - '+.b-ok.cc'
   - '+.b-ok.global'
