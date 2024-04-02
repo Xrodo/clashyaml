@@ -10,3 +10,5 @@ payload:
 - 'DOMAIN-KEYWORD,msn'
 - 'DOMAIN-KEYWORD,epicgames'
 - 'DOMAIN-KEYWORD,sharepoint'
+- 'DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net'
+- 'DOMAIN-SUFFIX,spotifycdn.com'
