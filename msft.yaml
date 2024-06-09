@@ -5,7 +5,6 @@ payload:
 - 'DOMAIN-SUFFIX,office.net'
 - 'DOMAIN-SUFFIX,live.net'
 - 'DOMAIN-SUFFIX,live.com'
-- 'DOMAIN-KEYWORD,microsoft'
 - 'DOMAIN-KEYWORD,msedge'
 - 'DOMAIN-KEYWORD,outlook'
 - 'DOMAIN-KEYWORD,msn'
