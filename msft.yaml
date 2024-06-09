@@ -1,5 +1,6 @@
 payload:
 - 'DOMAIN-KEYWORD,mypikpak'
+- 'DOMAIN-KEYWORD,spotify'
 - 'DOMAIN-SUFFIX,office.com'
 - 'DOMAIN-SUFFIX,office.net'
 - 'DOMAIN-SUFFIX,live.net'
